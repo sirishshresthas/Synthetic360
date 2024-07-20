@@ -1,0 +1,29 @@
+name: vsynth
+channels:
+  - conda-forge
+  - microsoft
+dependencies:
+  - python=3.11.4
+  - pydantic=2.6.1
+  - pydantic-settings=2.1.0
+  - scikit-learn
+  - scipy=1.11.4
+  - pingouin
+  - ipykernel
+  - ipython
+  - pandas
+  - numpy
+  - sdv
+  - ctgan
+  - matplotlib
+  - tensorflow-gpu
+  - azure-storage-blob
+  - cudatoolkit
+  - pip
+  - pip: 
+    - nbformat
+    - hyperopt
+    - kaleido
+    - seaborn
+    - table_evaluator
+

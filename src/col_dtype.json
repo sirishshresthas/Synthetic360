@@ -1,0 +1,17 @@
+{
+  "ID": "str",
+  "Gender": "str",
+  "Age": "int",
+  "Race": "str",
+  "RaterType": "str",
+  "competency1": "float",
+  "competency2": "float",
+  "competency3": "float",
+  "competency4": "float",
+  "competency5": "float",
+  "competency6": "float",
+  "competency7": "float",
+  "competency8": "float",
+  "competency9": "float",
+  "competency10": "float"
+}
